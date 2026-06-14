@@ -16,7 +16,6 @@ Flutter Developer with hands-on experience building mobile applications using Fl
 ## 📱 Projects
 
 * Smart Waste Sorting System
-* Grocery Mobile Application
 * Chat Application
 * Favorite Places Application
 
