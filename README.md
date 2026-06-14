@@ -22,5 +22,5 @@ Flutter Developer with hands-on experience building mobile applications using Fl
 
 ## 📫 Contact
 
-* LinkedIn: linkedin.com/in/rama-mansoor-9635b7330
+* LinkedIn: https://www.linkedin.com/in/rama-mansoor-9635b7330
 * Email: [rama.nael.mansoor@gmail.com](mailto:rama.nael.mansoor@gmail.com)
