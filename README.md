@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rama 👋
 
-<!--
-**RamaNael/RamaNael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Flutter Developer
 
-Here are some ideas to get you started:
+Flutter Developer with hands-on experience building mobile applications using Flutter, Dart, and Firebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* REST APIs
+* State Management
+* Git & GitHub
+
+## 📱 Projects
+
+* Smart Waste Sorting System
+* Grocery Mobile Application
+* Chat Application
+* Favorite Places Application
+
+## 📫 Contact
+
+* LinkedIn: linkedin.com/in/rama-mansoor-9635b7330
+* Email: [rama.nael.mansoor@gmail.com](mailto:rama.nael.mansoor@gmail.com)
