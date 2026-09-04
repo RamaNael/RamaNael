@@ -23,6 +23,10 @@ I'm a Flutter developer with hands-on experience building mobile applications us
 
   A simple real-time chat application built with Flutter and Firebase, featuring secure authentication, real-time messaging, profile image upload, Firebase Cloud Messaging (FCM), and Firebase Cloud Functions.
 
+* [Grocerio – Grocery E-Commerce App](https://github.com/RamaNael/grocerio-customer-app)
+
+  A Flutter grocery shopping application built with Firebase, featuring authentication, product browsing, cart management, coupons, Stripe checkout, order history, and user profile management.
+
 ## 📫 Contact
 
 * [LinkedIn](https://www.linkedin.com/in/rama-mansoor-9635b7330)
